@@ -1,0 +1,12 @@
+### If we observer coefficients more weight is give for "Affiliate_Marketing" because it explains the variance in product_sold better than other variables. This can be observed in seaborn pairplot as well.
+
+### We could predict test values with a R2_score of 0.9999601568574745 using Linear Regression Model. Higher the R2_score higher the model is able to predict the variance of Product_sold.
+
+➡️ Each dot represents a specific prediction.
+➡️ The x-axis shows the SHAP values, which represent the impact of each feature on the model output.
+➡️ Features are listed on the y-axis, ordered by their average absolute SHAP values.
+➡️ The color of each dot indicates the value of the feature for that prediction (blue for low values, red for high values).
+
+## Interpretation:
+➡️ Positive SHAP values (toward the right) indicate a positive impact on the model's prediction of higher product sales.
+➡️ Negative SHAP values (toward the left) indicate a negative impact on the prediction of higher product sales.

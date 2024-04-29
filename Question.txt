@@ -1,0 +1,9 @@
+- Q1: Are there any features whose data type does not match?
+- Q2: Are there duplicates, missing values or outliers?
+- Q3: Number of rows and columns?
+- Q4: What are the Results of Exploratory Data Analysis?
+- Q5: What are the Results of LinearRegression?
+- Q6: What are the results of model validation?
+- Q7: What are the results of the OLS (Ordinary Least Squares) model?
+- Q8: What are the results of the Model Cross Validation?
+- Q9: What are the results of the market mix model and SHAP Explainer?
